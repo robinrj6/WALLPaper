@@ -1,0 +1,38 @@
+.navbar-dark {
+    background-color: rgb(13, 41, 66);
+}
+
+.colored {
+    color: rgb(236, 240, 6);
+}
+
+.footer {
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px;
+}
+
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: #19043d;
+    color: floralwhite;
+}
+
+address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+.cards {
+    background-color: rgb(234, 245, 185);
+}
+
+.card {
+    background-color: rgb(13, 41, 66);
+}
+
+.card-title {
+    color: rgb(236, 240, 6);
+}
